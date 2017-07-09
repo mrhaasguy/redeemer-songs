@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="1080" width="1920" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2016-06-05T20:29:29+00:00" selectedArrangementID="" category="Responsive Reading" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="7E5D7C44-707A-4DB7-8F0C-436196F2EDC0">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="0D182B2B-AF8D-47CF-A8B3-59CDC3A5F166" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Bible Text" UUID="6477a222-f9bc-4071-8ea3-0b8efc466acf" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{120 59 0 1680 855}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">20|0.266666666666667 0.266666666666667 0.266666666666667 1|{2.12132030725479, -2.12132030725479}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">UGFzdG9yOiBUaGVyZWZvcmUsIHNpbmNlIHdlIGhhdmUgYSBncmVhdCBoaWdoIHByaWVzdCB3aG8gaGFzIGFzY2VuZGVkIGludG8gaGVhdmVuLCBKZXN1cyB0aGUgU29uIG9mIEdvZCwgbGV0IHVzIGhvbGQgZmlybWx5IHRvIHRoZSBmYWl0aCB3ZSBwcm9mZXNzLg0KDQpQZW9wbGU6IEZvciB3ZSBkbyBub3QgaGF2ZSBhIGhpZ2ggcHJpZXN0IHdobyBpcyB1bmFibGUgdG8gZW1wYXRoaXplIHdpdGggb3VyIHdlYWtuZXNzZXMsIGJ1dCB3ZSBoYXZlIG9uZSB3aG8gaGFzIGJlZW4gdGVtcHRlZCBpbiBldmVyeSB3YXksIGp1c3QgYXMgd2UgYXJlIHlldCBoZSBkaWQgbm90IHNpbi4=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYTt9fXtcY29sb3J0Ymw7XHJlZDBcZ3JlZW4wXGJsdWUwO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9XGxvY2hcaGljaFxkYmNoXHBhcmRcc2xsZWFkaW5nNzAwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMzMlxmM1xjZjEgXGNmMVxxbHtcZjMge1xmczk2XGNmMlxsdHJjaCBQYXN0b3I6fXtcZnMxMzJcY2YyXGx0cmNoICBUaGVyZWZvcmUsIHNpbmNlIHdlIGhhdmUgYSBncmVhdCBoaWdoIHByaWVzdCB3aG8gaGFzIGFzY2VuZGVkIGludG8gaGVhdmVuLCBKZXN1cyB0aGUgU29uIG9mIEdvZCwgbGV0IHVzIGhvbGQgZmlybWx5IHRvIHRoZSBmYWl0aCB3ZSBwcm9mZXNzLn1cbGkwXHNhMFxzYjBcZmkwXHFjXHNsMTM1M1xzbG11bHQwXHBhcn0NCntcZnMxMzJcZjMgXGxpMFxzYTBcc2IwXGZpMFxxY1xzbDEzNTNcc2xtdWx0MFxwYXJ9DQp7XGYzIHtcYlxmczk2XGNmMlxsdHJjaCBQZW9wbGU6IH17XGJcZnMxMzJcY2YyXGx0cmNoIEZvciB3ZSBkbyBub3QgaGF2ZSBhIGhpZ2ggcHJpZXN0IHdobyBpcyB1bmFibGUgdG8gZW1wYXRoaXplIHdpdGggb3VyIHdlYWtuZXNzZXMsIGJ1dCB3ZSBoYXZlIG9uZSB3aG8gaGFzIGJlZW4gdGVtcHRlZCBpbiBldmVyeSB3YXksIGp1c3QgYXMgd2UgYXJlIHlldCBoZSBkaWQgbm90IHNpbi59XGxpMFxzYTBcc2IwXGZpMFxxY1xzbDEzNTNcc2xtdWx0MFxwYXJ9DQp9DQp9</NSString>
+            </RVTextElement>
+            <RVTextElement displayName="Bible Reference" UUID="a8e8459f-775e-47f6-a9c7-4424390dac14" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{105 909 0 905 108}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">20|0.266666666666667 0.266666666666667 0.266666666666667 0.247058823529412|{2.12132030725479, -2.12132030725479}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">RG91YmxlLWNsaWNrIHRvIGVkaXQ=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYTt9fXtcY29sb3J0Ymw7XHJlZDBcZ3JlZW4wXGJsdWUwO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9XGxvY2hcaGljaFxkYmNoXHBhcmRcc2xsZWFkaW5nNzAwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxMzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIERvdWJsZS1jbGljayB0byBlZGl0fVxsaTBcc2EwXHNiMFxmaTBccWxcc2wxNjYzXHNsbXVsdDBccGFyfQ0KfQ0KfQ==</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="AD472279-8222-405A-B909-1DEA24D968A6" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVTextElement displayName="Bible Text" UUID="d10329fd-e706-4a4b-9e9f-9bcbbe158caf" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{120 62.82979 0 1680 855}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">20|0.266666666666667 0.266666666666667 0.266666666666667 1|{2.12132030725479, -2.12132030725479}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">UGFzdG9yOiBMZXQgdXMgdGhlbiBhcHByb2FjaCBHb2TigJlzIHRocm9uZSBvZiBncmFjZSB3aXRoIGNvbmZpZGVuY2UsIHNvIHRoYXQgd2UgbWF5IHJlY2VpdmUgbWVyY3kgYW5kIGZpbmQgZ3JhY2UgdG8gaGVscCB1cyBpbiBvdXIgdGltZSBvZiBuZWVkLiAg</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYTt9fXtcY29sb3J0Ymw7XHJlZDBcZ3JlZW4wXGJsdWUwO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9XGxvY2hcaGljaFxkYmNoXHBhcmRcc2xsZWFkaW5nNzAwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxMzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcZnM5NlxjZjJcbHRyY2ggUGFzdG9yOiB9e1xjZjJcbHRyY2ggTGV0IHVzIHRoZW4gYXBwcm9hY2ggR29kXHJxdW90ZSBzIHRocm9uZSBvZiBncmFjZSB3aXRoIGNvbmZpZGVuY2UsIHNvIHRoYXQgd2UgbWF5IHJlY2VpdmUgbWVyY3kgYW5kIGZpbmQgZ3JhY2UgdG8gaGVscCB1cyBpbiBvdXIgdGltZSBvZiBuZWVkLiAgfVxsaTBcc2EwXHNiMFxmaTBccWNcc2wxMzUzXHNsbXVsdDBccGFyfQ0KfQ0KfQ==</NSString>
+            </RVTextElement>
+            <RVTextElement displayName="Bible Reference" UUID="300028b0-da2e-4f05-b31b-fa5831362304" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
+              <RVRect3D rvXMLIvarName="position">{105 909 0 905 108}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">20|0.266666666666667 0.266666666666667 0.266666666666667 0.247058823529412|{2.12132030725479, -2.12132030725479}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+              <NSString rvXMLIvarName="PlainText">RG91YmxlLWNsaWNrIHRvIGVkaXQ=</NSString>
+              <NSString rvXMLIvarName="RTFData">e1xydGYxXHByb3J0ZjFcYW5zaVxhbnNpY3BnMTI1Mlx1YzFcaHRtYXV0c3BcZGVmZjJ7XGZvbnR0Ymx7XGYwXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW47fXtcZjJcZmNoYXJzZXQwIEdlb3JnaWE7fXtcZjNcZmNoYXJzZXQwIEhlbHZldGljYTt9fXtcY29sb3J0Ymw7XHJlZDBcZ3JlZW4wXGJsdWUwO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9XGxvY2hcaGljaFxkYmNoXHBhcmRcc2xsZWFkaW5nNzAwXHBsYWluXGx0cnBhclxpdGFwMHtcbGFuZzEwMzNcZnMxMzJcZjNcY2YxIFxjZjFccWx7XGYzIHtcY2YyXGx0cmNoIERvdWJsZS1jbGljayB0byBlZGl0fVxsaTBcc2EwXHNiMFxmaTBccWxcc2wxNjYzXHNsbXVsdDBccGFyfQ0KfQ0KfQ==</NSString>
+            </RVTextElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
