@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="768" width="1366" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="" selectedArrangementID="" category="Sermon" resourcesDirectory="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29" notes="" CCLISongTitle="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="2B3E64B0-50D8-4A8D-93D5-FBC74AEC2CB3">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="253889CE-ACD5-4953-B567-1C9FD2B26A0A" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="a975aca5-6221-4cdf-af68-fcba378fed0c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C1.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="309ABD54-A5D3-4878-A5A3-D84339A1D219" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="8cf8f695-20db-46a7-88e0-15cb9a40a548" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C2.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="2D17A35E-A775-4A26-AFCD-1B94E5B34320" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="2743a703-cba1-476b-a57a-c508645f1fc5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C3.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="2E2991D8-BB10-4940-B61F-D0C229CA5C77" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="6710b74a-5abf-4a2a-8bde-be98fc6a839f" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C4.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="E359CA43-CF29-4630-9265-6027DC7BC8A2" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="dd0fe0f6-0f55-45e9-9285-dbf4cf85dfdf" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C5.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="18894995-5844-4888-BD71-8A060F3BCE58" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="54dc1c8e-118c-464d-a2d5-763b85351e12" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C6.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="60100A8E-6F6D-440E-9258-01707EE4A145" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="67ba0380-b643-4e27-bbad-74b8d03b0b39" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C7.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="85C2CB8D-0189-4B27-9518-6042BD4F524B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="e75e21c2-9687-4c2a-bda1-870515b4a4df" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C8.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="4EAB5E51-19FC-41FA-8BE1-35782E05E2A9" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="dd4e0137-bc99-4afb-b3b3-a8b8387e56e6" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C9.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="3BD6748E-2B39-497A-A09A-45DBB2E00FDC" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="13a81e60-c366-4d2d-a122-5d9fe139950d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CSent%20to%20Give%20Life.%20The%20Gospel%20of%20John%204.1-26%287992cbd2-3f90-44bc-83de-248eedb0b7db%29%5C10.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
