@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="768" width="1366" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2017-12-24T16:12:20+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29" notes="" CCLISongTitle="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="8433D4F2-B30E-474A-BF22-F9A6E20F0419">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="FD0B73F9-16F7-4E38-B3FB-A750B6B9F8C8" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="211f1fd7-6d14-4778-af2e-cafdc65326dd" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C1.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="BD6763CE-B0B0-41CD-9075-272642013AD6" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="e9de0c4d-900c-443f-a210-b6359431db7c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C2.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="4CA7D8CD-2B35-4BAF-A5D6-3F534B98847E" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="a70ba0d8-fd27-47ef-8f79-8c87c3513d4b" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C3.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="67BF5E16-5A31-4579-84CE-B6E6D4F54FF8" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="fbc96214-1121-41fd-9df4-5d9186bedfb3" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C4.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="1A8997B7-37AD-4C69-AC2B-AA7A52FF71A7" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="95726fe3-63a4-4605-a6c2-dd42b7e5f3b2" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C5.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="D825E83E-C6A5-465E-9A3E-839EDF60B244" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="13963062-0712-4ae6-aaa7-698549174fac" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C6.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="A21FD0DF-59AA-484D-9C50-377504C1ECD4" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="f124519f-fbf9-4286-8e86-ae619dd5f723" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C7.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="2B3A5A67-C741-4038-A308-A136E993BFAB" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="e1e62a24-a25c-4eb8-aade-9f7c03adddf6" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C8.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="923F4592-AF37-4694-B9CB-867F250894CA" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="4d86bbf3-8e14-473c-bea4-668f103844f6" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C9.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="EBF8704E-2EF0-4DFB-9282-3A01DFCDD177" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="04025e4e-be71-47b0-8148-cfa91df82569" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C10.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="DAEBDF39-965F-4EAF-8D2C-8A1CAE2916BD" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="b1040448-9255-4556-8753-72f40888afde" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C11.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="B537F1F9-9FC3-4A21-9B29-95668B15E596" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="8da6c452-cb4c-4a26-872f-f8c03a28b566" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C12.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="7CF863C7-6C3D-4019-9CC2-60469A85C3A6" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="bf92ca30-c066-4e6b-b606-91ae8aec6ada" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C13.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="7B46758D-B858-4C41-A4B8-8EC6494B5A3C" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="51214c56-a91d-4894-a593-60f7239e2690" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C14.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="34BB3483-8B11-4EF4-BE89-6EEA08F50E9C" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="f94f2a89-6a6a-4151-a8b5-9f717fdfa139" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5C_An%20Enchanted%20Christmas%20in%20a%20Disenchanted%20World_%20%20Luke%201-2%28d7bd6372-ea49-4875-801c-71a33212e3c1%29%5C15.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
