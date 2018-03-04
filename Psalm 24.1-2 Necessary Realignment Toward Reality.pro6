@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="768" width="1366" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2018-02-18T16:13:59+00:00" selectedArrangementID="" category="Presentation" resourcesDirectory="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29" notes="" CCLISongTitle="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="BDE4A994-7CB7-422C-878A-A75239C5DA81">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="6176EDB5-6955-413D-9E6D-B3F12EC33DD7" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="4bf364e2-37db-4c7a-8823-ae31866a3efe" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C1.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="A3A16C0C-A0DB-49B7-9D11-666FD14EC767" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="46aafff9-29df-4fdb-a58c-6051f18ad14d" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C2.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="A7BDC57E-96A4-4839-AA8D-4D9B27C9C635" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="4f922a13-61f7-4957-8198-59ef01fbf4db" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C3.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="65FE3673-CAE0-48DB-9AC7-EAB326ED2609" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="c0c38b5c-efd2-4d22-9b38-6fa6aeb4c43c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C4.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="6F204FF7-597B-4652-8E43-263500BD798B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="ce1a08a9-e20a-481d-890b-6a9dd263af41" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C5.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="C8C85D4C-2FE0-4965-A35C-CC0C010E6C06" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="2b91192c-2c40-4643-9f8e-21cd1fba1b00" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C6.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="F800B7EA-7308-4639-BF38-6CA44C6136F9" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="b1532644-ee62-4669-b393-153545d0a327" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C7.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="28B0A8BB-8C81-48F2-B924-04C5199BB49B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="dc419c9e-096b-4463-8feb-635d69e4e906" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C8.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="EED90810-BC73-47FA-9C9C-34C9B884E19D" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="3dd16001-e63a-436c-8821-2f083e3eb049" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C9.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="B262EF4F-B62C-400F-8F0B-84AC16367794" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="98b90bf4-3dab-4ef6-8ee3-cba444312981" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C10.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="97B2405A-12B7-4D55-B4AB-6256B0DB020D" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="9d3450c0-fa8e-4a55-a5cf-8791f68045b8" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C11.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="527F7DD6-4BFE-4882-82C2-E471A514E7FA" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="9c4dfa94-7f99-4071-83f7-d738372da057" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C12.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="010A20E8-82D9-4851-A1E5-7BAFE05A97CA" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="22585304-81e7-467f-9d47-3e3a7b9e08c5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C13.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="05A36837-DF9E-4E8D-87FC-9C7B6C03930A" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="b0b58b7f-fb06-4a2b-8e46-bba8f330b67c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CPsalm%2024.1-2%20Necessary%20Realignment%20Toward%20Reality%28a6e1049c-b35e-47fe-b889-f4e431553889%29%5C14.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1366 768}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
