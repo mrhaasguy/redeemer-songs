@@ -14,7 +14,7 @@ The compassion of God moves us to mission.
 
 ### Mission because ... We are a harassed, helpless, and wandering people w/o Jesus
 
-Every person is living in a world of brokeness.
+Every person is living in a world of brokenness.
 
 Jesus is the **good** shepherd. HE actually cares for the sheep.
 
@@ -29,7 +29,7 @@ There is nothing more glorious than God coming into his broken world to restore 
 
 Mission -- pray. We can all pray.
 
-Through prayer he will give us opportunity. Pray for more opportunity to lead peole into the care of the Good Shepherd.
+Through prayer he will give us opportunity. Pray for more opportunity to lead people into the care of the Good Shepherd.
 
 ### Take-aways
 

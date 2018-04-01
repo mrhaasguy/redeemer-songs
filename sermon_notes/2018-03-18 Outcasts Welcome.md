@@ -19,7 +19,7 @@ Paul -- no matter what happens, Christ will be honored in my body, whether by li
 
 This is the vibe that we must give to the world -- it's not that we're better than you, we have been saved by grace. **How do we do that practically?**
 
-**How does this change us?** We show compassion and welcome and love to all ppl, inviting them to be apart of what we have here.
+**How does this change us?** We show compassion and welcome and love to all people, inviting them to be apart of what we have here.
 
 **How do we maintain this view of ourselves?** Be in the Word continually, be apart of a community that also believes this.
 
