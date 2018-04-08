@@ -30,10 +30,3 @@ There is nothing more glorious than God coming into his broken world to restore 
 Mission -- pray. We can all pray.
 
 Through prayer he will give us opportunity. Pray for more opportunity to lead people into the care of the Good Shepherd.
-
-### Take-aways
-
-**Why did Jim choose to preach on this passage? Why did he choose his 4 points? What is the main message he wanted to get across?**
-
-Compassion - desire. How do we increase it? This has to be the driving force for mission. **So, what do we do if we want more desire?**
-
