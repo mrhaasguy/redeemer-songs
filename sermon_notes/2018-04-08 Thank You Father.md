@@ -1,4 +1,4 @@
-# 2018-04-08 - Thank You, Father
+# Thank You, Father
 ## Colossians 1:12-13
 
 ### The Father has Qualified us

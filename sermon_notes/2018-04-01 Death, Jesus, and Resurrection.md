@@ -1,4 +1,4 @@
-# 2018-04-01 - Death, Jesus, and Resurrection
+# Death, Jesus, and Resurrection
 ## Hebrews 2;9, 14-16; 1 Corinthians 15:3-4, 20-27, 54-57
 
 
