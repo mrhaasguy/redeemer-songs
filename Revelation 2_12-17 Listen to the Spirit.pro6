@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="" selectedArrangementID="" category="Presentation" resourcesDirectory="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29" notes="" CCLISongTitle="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
+  <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
+    <array rvXMLIvarName="timeCues" />
+    <array rvXMLIvarName="mediaTracks" />
+  </RVTimeline>
+  <array rvXMLIvarName="groups">
+    <RVSlideGrouping name="" color="1 1 1 0" uuid="B2376A5D-617C-4824-99C1-1F5C2CD391F4">
+      <array rvXMLIvarName="slides">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="ACDEB2ED-F7FF-4418-8DA2-2469CF402694" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="0cf7fbc6-b67f-4b7f-9f76-60973847e848" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C1.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="9F4D3ED8-47DC-49D6-8A53-0E883638D8D7" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="e4d20c37-4135-4842-a3c5-75fe9830862a" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C2.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="C1BF75FE-92C7-49FF-8CCA-30AAF39EC75E" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="1f1cdd6a-c1ac-4b39-8def-3aced2e10cbf" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C3.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="ABD9E9AE-F680-4882-B02E-7EEF704D3698" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="4b305e29-13a2-47a6-824e-efd7a4161d9a" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C4.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="B413DF40-7573-4137-BD52-B8D97DAE2EDC" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="cddd489d-74ac-4aa0-9718-b9ee18542846" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C5.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="66ECD1D4-ECFB-482C-83F0-80590C6AE125" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="db2f4aae-5825-46e2-9ba2-612b9a8559c7" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C6.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="DBD80E98-7CA0-4F13-BCD7-E7014EFEB210" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="4711487b-d47b-4deb-a931-f6a3808b4b46" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C7.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="562DEDC0-75DB-4FB7-95EF-024C84BB0F2B" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="8755ef7f-5424-431b-86e7-089f0bb5d9e2" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C8.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="1537955F-FDFD-444D-AF9E-D8A0B39AED0A" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="fc2ebe23-6486-46fa-9f39-0e8dbf67ad9c" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C9.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="B70FB981-100B-4AF3-9257-B83D54914822" chordChartPath="">
+          <array rvXMLIvarName="cues" />
+          <array rvXMLIvarName="displayElements">
+            <RVImageElement UUID="3d7e7058-8c45-4157-9a1e-b14d6b95c7cf" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="C%3A%5CProgramData%5CRenewed%20Vision%20Media%5CImportedImages%5CRevelation%202_12-17%20Listen%20to%20the%20Spirit%2809ff0537-44b2-43fa-9423-19d24729c9f5%29%5C10.jpg" displayName="Default" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="false" drawingStroke="false" fillColor="1 1 1 1" scaleBehavior="0" flippedHorizontally="0" flippedVertically="0" scaleSize="{1, 1}" imageOffset="{0, 0}" manufactureURL="" manufactureName="" format="">
+              <RVRect3D rvXMLIvarName="position">{0 0 0 1280 720}</RVRect3D>
+              <shadow rvXMLIvarName="shadow">0|0 0 0 1|{4.94974746830583, -4.94974746830583}</shadow>
+              <dictionary rvXMLIvarName="stroke">
+                <NSColor rvXMLDictionaryKey="RVShapeElementStrokeColorKey">0 0 0 1</NSColor>
+                <NSNumber rvXMLDictionaryKey="RVShapeElementStrokeWidthKey" hint="double">0</NSNumber>
+              </dictionary>
+            </RVImageElement>
+          </array>
+        </RVDisplaySlide>
+      </array>
+    </RVSlideGrouping>
+  </array>
+  <array rvXMLIvarName="arrangements" />
+</RVPresentationDocument>
