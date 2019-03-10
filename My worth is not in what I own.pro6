@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="true" lastDateUsed="2019-01-20T22:15:06+00:00" selectedArrangementID="882BA53C-0E36-4D0E-9D19-608AD1008635" category="Song" resourcesDirectory="" notes="" CCLIAuthor="Graham Kendrick, Keith Getty, Kristyn Getty" CCLIArtistCredits="" CCLISongTitle="My worth is not in what I own" CCLIPublisher="Getty Music Publishing (Admin. by Music Services, Inc.) Make Way Music (Admin. by Music Services, Inc.)" CCLICopyrightYear="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
+<RVPresentationDocument height="720" width="1280" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="true" lastDateUsed="2019-03-03T16:31:40+00:00" selectedArrangementID="882BA53C-0E36-4D0E-9D19-608AD1008635" category="Song" resourcesDirectory="" notes="" CCLIAuthor="Graham Kendrick, Keith Getty, Kristyn Getty" CCLIArtistCredits="" CCLISongTitle="My worth is not in what I own" CCLIPublisher="Getty Music Publishing (Admin. by Music Services, Inc.) Make Way Music (Admin. by Music Services, Inc.)" CCLICopyrightYear="" CCLISongNumber="11263947" chordChartPath="" os="1" buildNumber="6016">
   <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
     <array rvXMLIvarName="timeCues" />
     <array rvXMLIvarName="mediaTracks" />
@@ -164,7 +164,7 @@
         <NSString>3E005BF4-329F-4991-9911-3E8859321449</NSString>
         <NSString>21D18631-A85A-4DB5-B2CF-23CFF3FD2855</NSString>
         <NSString>9FCC2B9F-E110-4A5B-A4E3-35E3FBC935A6</NSString>
-        <NSString>9FCC2B9F-E110-4A5B-A4E3-35E3FBC935A6</NSString>
+        <NSString>21D18631-A85A-4DB5-B2CF-23CFF3FD2855</NSString>
         <NSString>21D18631-A85A-4DB5-B2CF-23CFF3FD2855</NSString>
       </array>
     </RVSongArrangement>
