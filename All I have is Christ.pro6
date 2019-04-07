@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RVPresentationDocument height="768" width="1366" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2018-12-30T15:40:14+00:00" selectedArrangementID="DB912EFA-3A8B-481E-AEDF-9109D8868283" category="Song" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
+<RVPresentationDocument height="768" width="1366" docType="0" versionNumber="600" usedCount="0" backgroundColor="0 0 0 1" drawingBackgroundColor="false" CCLIDisplay="false" lastDateUsed="2019-03-24T14:43:58+00:00" selectedArrangementID="DB912EFA-3A8B-481E-AEDF-9109D8868283" category="Song" resourcesDirectory="" notes="" CCLIAuthor="" CCLIArtistCredits="" CCLISongTitle="" CCLIPublisher="" CCLICopyrightYear="" CCLISongNumber="" chordChartPath="" os="1" buildNumber="6016">
   <RVTimeline timeOffset="0" duration="0" selectedMediaTrackIndex="-1" loop="false" rvXMLIvarName="timeline">
     <array rvXMLIvarName="timeCues" />
     <array rvXMLIvarName="mediaTracks" />
@@ -165,7 +165,7 @@
             </RVTextElement>
           </array>
         </RVDisplaySlide>
-        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="true" hotKey="" label="" notes="" UUID="BC147CFE-7144-4EF8-85A7-6530EAEB5B9E" chordChartPath="">
+        <RVDisplaySlide backgroundColor="0 0 0 1" highlightColor="1 1 1 0" drawingBackgroundColor="false" enabled="false" hotKey="" label="" notes="" UUID="BC147CFE-7144-4EF8-85A7-6530EAEB5B9E" chordChartPath="">
           <array rvXMLIvarName="cues" />
           <array rvXMLIvarName="displayElements">
             <RVTextElement displayName="Text" UUID="60bf999f-f56a-42e8-b951-69311c5d22d5" typeID="0" displayDelay="0" locked="false" persistent="0" fromTemplate="false" opacity="1" source="" bezelRadius="0" rotation="0" drawingFill="false" drawingShadow="true" drawingStroke="false" fillColor="0 0 0 0" adjustsHeightToFit="false" verticalAlignment="0" revealType="0">
@@ -206,7 +206,6 @@
     <RVSongArrangement name="Song" uuid="DB912EFA-3A8B-481E-AEDF-9109D8868283" color="1 1 1 0">
       <array rvXMLIvarName="groupIDs">
         <NSString>482C8F58-58F8-45FF-B208-044912F84457</NSString>
-        <NSString>65CC4C1C-07A9-46C0-9C90-5744B9DD9237</NSString>
         <NSString>B3A8E5EC-4B0F-40AD-A161-9E0655DBDD75</NSString>
         <NSString>7DC3D544-32DB-4CDE-94B9-96EA6E570C50</NSString>
         <NSString>65CC4C1C-07A9-46C0-9C90-5744B9DD9237</NSString>
